@@ -1,4 +1,5 @@
 <?php get_header(); ?>
+
 <div class="container fluzy-content">
 	<div class="row">
 		<div class="col-md-8">
